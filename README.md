@@ -1,5 +1,5 @@
 # simple-html-project
 simple html project without css </br>
-this is my first project in programming world😃
+this is my first project in programming😃
 ![html and css](https://user-images.githubusercontent.com/103105418/174638458-d84e8e87-ab91-439c-9d09-90172a50defd.PNG)
 
